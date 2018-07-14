@@ -1,1 +1,14 @@
-
+{
+    "m_Infos": [
+        {
+            "url": "https://github.com/liuxu7/TFtest01/raw/master/Android/gamearchive",
+            "name": "gamearchive",
+            "hash": "3ebe330ebccccfbb87611d7d4a7f55cb"
+        },
+        {
+            "url": "https://github.com/liuxu7/TFtest01/raw/master/Android/shoppingcanvas",
+            "name": "shoppingcanvas",
+            "hash": "08c5b4fb295fd788fabd1fb138b1d52b"
+        }
+    ]
+}
