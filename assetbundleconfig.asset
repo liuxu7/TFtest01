@@ -1,18 +1,12 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 14f7e3f1504353a4b879dbba408c75c4, type: 3}
-  m_Name: assetbundleconfig
-  m_EditorClassIdentifier: 
-  m_Infos:
-  - path: gamearchive
-    hash: d138f2c9e042ce1bd82f19fca0f7b9c8
-  - path: shoppingcanvas
-    hash: b3b5a274d383298615a94bf369108fcd
+{
+    "m_Infos": [
+        {
+            "path": "gamearchive",
+            "hash": "d138f2c9e042ce1bd82f19fca0f7b9c8"
+        },
+        {
+            "path": "shoppingcanvas",
+            "hash": "b3b5a274d383298615a94bf369108fcd"
+        }
+    ]
+}
